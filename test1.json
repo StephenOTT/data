@@ -1,14 +1,1 @@
-{
-  "_id": "561290c3478de60d980e314b",
-  "index": 0,
-  "guid": "2f49df2c-2790-4b03-8276-96ab4f46fa5f",
-  "isActive": false,
-  "balance": "$2,268.01",
-  "picture": "http://placehold.it/32x32",
-  "age": 37,
-  "eyeColor": "green",
-  "name": {
-    "first": "Edna",
-    "last": "Mcdowell"
-  }
-}
+{"_id": 1, "title": "Hackers", "release_year": 1995, "genre": ["Action", "Crime", "Drama"], "actors": ["Johnny Lee Miller", "Angelina Jolie"], "description": "High-school age computer expert Zero Cool and his hacker friends take on an evil corporation's computer virus with their hacking skills."}
